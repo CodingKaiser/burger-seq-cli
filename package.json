@@ -1,0 +1,31 @@
+{
+  "name": "burger-seq-cli",
+  "version": "1.0.0",
+  "description": "Consume a burger why don't you",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "express-handlebars": "^3.0.0",
+    "method-override": "^2.3.8",
+    "sequelize": "^3.30.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodingKaiser/burger-seq-cli.git"
+  },
+  "keywords": [
+    "burger",
+    "eat"
+  ],
+  "author": "Falko Julian Noe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CodingKaiser/burger-seq-cli/issues"
+  },
+  "homepage": "https://github.com/CodingKaiser/burger-seq-cli#readme"
+}

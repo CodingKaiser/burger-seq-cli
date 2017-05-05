@@ -1,0 +1,12 @@
+#main-image {
+  width: 200px;
+  height: 200px;
+}
+
+.bring-closer-left {
+  padding-left: 0px;
+}
+
+.bring-closer-right {
+  padding-right: 0px;
+}
